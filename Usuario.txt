@@ -1,1 +1,1 @@
-browler
+browler:exec
